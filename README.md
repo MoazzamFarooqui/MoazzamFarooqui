@@ -135,7 +135,6 @@ A supervised ML model predicting **car resale prices** (covers the complete ML w
 ---
 
 
----
 
 <div align="center">
 
