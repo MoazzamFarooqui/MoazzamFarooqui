@@ -16,7 +16,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚══▀▀═╝  ╚═════╝ ╚═╝
 ```
 
-### (Computer Science Student)  (Karachi, Pakistan)
+### (Computer Science Student)    (Karachi, Pakistan)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=moazzamfarooqui&label=Profile+Views&color=00ff88&style=flat-square)](https://github.com/MoazzamFarooqui)
 [![LeetCode](https://img.shields.io/badge/LeetCode-moazzam__faroooqui-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/moazzam_faroooqui)
@@ -132,10 +132,6 @@ A supervised ML model predicting **car resale prices** (covers the complete ML w
 - ✅ Model selected using MAE, RMSE, and R² metrics
 - ✅ Feature importance visualisation explaining price drivers
 
----
-
-
----
 
 <div align="center">
 
