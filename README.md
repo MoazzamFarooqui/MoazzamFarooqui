@@ -17,7 +17,6 @@ MOAZZAM FAROOQUI
 
 ## 👨‍💻 About Me
 
-> *"I build things that work — from AI agents that play Tetris to full accounting systems."*
 
 I'm a **Computer Science student at NED University** who learned to build by actually building. My projects go beyond tutorials — each one is a complete, functional system built from scratch.
 
