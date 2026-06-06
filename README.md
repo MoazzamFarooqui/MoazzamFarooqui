@@ -32,7 +32,7 @@
 I'm a **Computer Science student at NED University** who learned to build by actually building. My projects go beyond tutorials — each one is a complete, functional system built from scratch.
 
 - 🎓 Studying **BE in CSIT** at NED University of Engineering & Technology
-- 🤖 Self-taught in **Machine Learning** — from regression to recommendation systems
+- 🤖 Self-taught in **Machine Learning** (from regression to recommendation systems)
 - 🕹️ Built a **Tetris AI** that plays the game better than most humans
 - 📊 Built a **full-stack ERP system** with double-entry bookkeeping as a university project
 - 💡 I believe in learning by shipping real projects, not just completing courses
@@ -77,7 +77,7 @@ I'm a **Computer Science student at NED University** who learned to build by act
 ### 🧾 Accounting ERP System
 > *Full-Stack | Python · Streamlit · MySQL · ReportLab*
 
-A complete accounting ERP built as a **4th semester university project** — the most ambitious full-stack system I've built to date.
+A complete accounting ERP built as a **4th semester university project** (the most ambitious full-stack system I've built to date).
 
 - ✅ Double-entry bookkeeping: every debit has a matching credit
 - ✅ Automated invoice generation with client management & due-date tracking
@@ -91,7 +91,7 @@ A complete accounting ERP built as a **4th semester university project** — the
 
 A fully playable Tetris game with an **autonomous AI agent** that evaluates board states in real time and plays on its own.
 
-- ✅ Full Tetris engine in C++ — piece spawning, rotation, line clearing, scoring
+- ✅ Full Tetris engine in C++ (piece spawning, rotation, line clearing, scoring)
 - ✅ Heuristic AI scoring each placement by stack height, holes, and bumpiness
 - ✅ AI selects the move minimising board complexity each turn
 - ✅ Smooth real-time gameplay rendered with Raylib
@@ -101,7 +101,7 @@ A fully playable Tetris game with an **autonomous AI agent** that evaluates boar
 ### 📊 Distraction Predictor
 > *ML Classification | Python · scikit-learn · Streamlit*
 
-An end-to-end ML web app that **predicts student distraction levels** from behavioral patterns — built entirely through self-study.
+An end-to-end ML web app that **predicts student distraction levels** from behavioral patterns (built entirely through self-study).
 
 - ✅ Full preprocessing pipeline: missing values, encoding, scaling
 - ✅ Trained & exported a classification model (`model.pkl`)
