@@ -134,15 +134,6 @@ A supervised ML model predicting **car resale prices** (covers the complete ML w
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Moazzam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moazzamfarooqui&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=0d1117&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moazzamfarooqui&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117)
-
-</div>
 
 ---
 
