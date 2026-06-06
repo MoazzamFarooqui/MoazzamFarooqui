@@ -16,7 +16,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚══▀▀═╝  ╚═════╝ ╚═╝
 ```
 
-### `< Computer Science Student & Builder />` — Karachi, Pakistan 🇵🇰
+### (Computer Science Student)  (Karachi, Pakistan)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=moazzamfarooqui&label=Profile+Views&color=00ff88&style=flat-square)](https://github.com/MoazzamFarooqui)
 [![LeetCode](https://img.shields.io/badge/LeetCode-moazzam__faroooqui-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/moazzam_faroooqui)
@@ -28,7 +28,6 @@
 
 ## 👨‍💻 About Me
 
-> *"I build things that work — from AI agents that play Tetris to full accounting systems."*
 
 I'm a **Computer Science student at NED University** who learned to build by actually building. My projects go beyond tutorials — each one is a complete, functional system built from scratch.
 
