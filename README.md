@@ -125,9 +125,9 @@ A content-based recommendation engine trained on **5,000+ TMDB movies**, deploye
 ### 🚗 Car Price Prediction System
 > *Regression | Python · scikit-learn · Matplotlib*
 
-A supervised ML model predicting **car resale prices** — covers the complete ML workflow from raw data to evaluation.
+A supervised ML model predicting **car resale prices** (covers the complete ML workflow from raw data to evaluation).
 
-- ✅ Cleaned real car sales data — handled missing values, encoded categoricals
+- ✅ Cleaned real car sales data (handled missing values, encoded categoricals)
 - ✅ Trained & compared **Linear Regression**, **Random Forest**, and **Gradient Boosting**
 - ✅ Model selected using MAE, RMSE, and R² metrics
 - ✅ Feature importance visualisation explaining price drivers
