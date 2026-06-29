@@ -29,13 +29,10 @@
 ## 👨‍💻 About Me
 
 
-I'm a **Computer Science student at NED University** who learned to build by actually building. My projects go beyond tutorials — each one is a complete, functional system built from scratch.
-
 - 🎓 Studying **BS in CSIT** at NED University of Engineering & Technology
 - 🤖 Self-taught in **Machine Learning** (from regression to recommendation systems)
 - 🕹️ Built a **Tetris AI** that plays the game better than most humans
 - 📊 Built a **full-stack ERP system** with double-entry bookkeeping as a university project
-- 💡 I believe in learning by shipping real projects, not just completing courses
 
 ---
 
