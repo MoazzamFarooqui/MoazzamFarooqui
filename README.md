@@ -26,17 +26,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 
-- 🎓 Studying **BS in CSIT** at NED University of Engineering & Technology
-- 🤖 Self-taught in **Machine Learning** (from regression to recommendation systems)
-- 🕹️ Built a **Tetris AI** that plays the game better than most humans
-- 📊 Built a **full-stack ERP system** with double-entry bookkeeping as a university project
+- Studying **BS in CSIT** at NED University of Engineering & Technology
+- Self-taught in **Machine Learning** (from regression to recommendation systems)
+- Built a **Tetris AI** that plays the game better than most humans
+- Built a **full-stack ERP system** with double-entry bookkeeping as a university project
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -69,65 +69,65 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🧾 Accounting ERP System
+### Accounting ERP System
 > *Full-Stack | Python · Streamlit · MySQL · ReportLab*
 
 A complete accounting ERP built as a **4th semester university project** (the most ambitious full-stack system I've built to date).
 
-- ✅ Double-entry bookkeeping: every debit has a matching credit
-- ✅ Automated invoice generation with client management & due-date tracking
-- ✅ Dynamic PDF Trial Balance reports pulled live from MySQL
-- ✅ Streamlit dashboard unifying accounts, transactions, and reports
+- Double-entry bookkeeping: every debit has a matching credit
+- Automated invoice generation with client management & due-date tracking
+- Dynamic PDF Trial Balance reports pulled live from MySQL
+- Streamlit dashboard unifying accounts, transactions, and reports
 
 ---
 
-### 🕹️ Tetris AI
+### Tetris AI
 > *Game AI | C++ · Raylib · OOP · Heuristics*
 
 A fully playable Tetris game with an **autonomous AI agent** that evaluates board states in real time and plays on its own.
 
-- ✅ Full Tetris engine in C++ (piece spawning, rotation, line clearing, scoring)
-- ✅ Heuristic AI scoring each placement by stack height, holes, and bumpiness
-- ✅ AI selects the move minimising board complexity each turn
-- ✅ Smooth real-time gameplay rendered with Raylib
+- Full Tetris engine in C++ (piece spawning, rotation, line clearing, scoring)
+- Heuristic AI scoring each placement by stack height, holes, and bumpiness
+- AI selects the move minimising board complexity each turn
+- Smooth real-time gameplay rendered with Raylib
 
 ---
 
-### 📊 Distraction Predictor
+### Distraction Predictor
 > *ML Classification | Python · scikit-learn · Streamlit*
 
 An end-to-end ML web app that **predicts student distraction levels** from behavioral patterns (built entirely through self-study).
 
-- ✅ Full preprocessing pipeline: missing values, encoding, scaling
-- ✅ Trained & exported a classification model (`model.pkl`)
-- ✅ Live predictions via a Streamlit interface
-- ✅ Clean separation of training (`train_model.py`) and app logic
+- Full preprocessing pipeline: missing values, encoding, scaling
+- Trained & exported a classification model (`model.pkl`)
+- Live predictions via a Streamlit interface
+- Clean separation of training (`train_model.py`) and app logic
 
 ---
 
-### 🎬 Movie Recommendation System
+### Movie Recommendation System
 > *NLP / Content-Based Filtering | Python · scikit-learn · Streamlit*
 
 A content-based recommendation engine trained on **5,000+ TMDB movies**, deployed as an interactive web app.
 
-- ✅ Merged TMDB credits + movies datasets with Pandas
-- ✅ Built feature vectors from genres, cast, crew, and keywords using `CountVectorizer`
-- ✅ Cosine similarity ranking for top-N most relevant titles
-- ✅ Live Streamlit interface for movie search & recommendations
+- Merged TMDB credits + movies datasets with Pandas
+- Built feature vectors from genres, cast, crew, and keywords using `CountVectorizer`
+- Cosine similarity ranking for top-N most relevant titles
+- Live Streamlit interface for movie search & recommendations
 
 ---
 
-### 🚗 Car Price Prediction System
+### Car Price Prediction System
 > *Regression | Python · scikit-learn · Matplotlib*
 
 A supervised ML model predicting **car resale prices** (covers the complete ML workflow from raw data to evaluation).
 
-- ✅ Cleaned real car sales data (handled missing values, encoded categoricals)
-- ✅ Trained & compared **Linear Regression**, **Random Forest**, and **Gradient Boosting**
-- ✅ Model selected using MAE, RMSE, and R² metrics
-- ✅ Feature importance visualisation explaining price drivers
+- Cleaned real car sales data (handled missing values, encoded categoricals)
+- Trained & compared **Linear Regression**, **Random Forest**, and **Gradient Boosting**
+- Model selected using MAE, RMSE, and R² metrics
+- Feature importance visualisation explaining price drivers
 
 ---
 
