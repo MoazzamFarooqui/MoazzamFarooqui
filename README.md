@@ -16,7 +16,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚══▀▀═╝  ╚═════╝ ╚═╝
 ```
 
-### BS CSIT Student | NED University of Engineering & Technology | Karachi, Pakistan
+### CSIT Student | NED University of Engineering & Technology | Karachi, Pakistan
 
 [![Profile Views](https://komarev.com/ghpvc/?username=moazzamfarooqui&label=Profile+Views&color=00ff88&style=flat-square)](https://github.com/MoazzamFarooqui)
 [![GitHub](https://img.shields.io/badge/GitHub-MoazzamFarooqui-181717?style=flat-square&logo=github)](https://github.com/MoazzamFarooqui)
@@ -29,7 +29,7 @@
 
 ## About Me
 
-- BS CSIT student at NED University of Engineering & Technology
+- Studying BS in CSIT at NED University of Engineering & Technology
 - Self-taught in Machine Learning through personal projects and continuous learning
 - Interested in Machine Learning, Data Science, Artificial Intelligence, and Software Development
 - Passionate about building practical applications that solve real-world problems
