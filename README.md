@@ -29,10 +29,10 @@
 
 ## About Me
 
-- Studying BS in CSIT at NED University of Engineering & Technology
-- Self-taught in Machine Learning through personal projects and continuous learning
-- Interested in Machine Learning, Data Science, Artificial Intelligence, and Software Development
-- Passionate about building practical applications that solve real-world problems
+- BS CSIT student at NED University of Engineering & Technology
+- Passionate about Machine Learning, Artificial Intelligence, and Data Science
+- Enjoy building practical applications that solve real-world problems
+- Currently exploring Deep Learning and Computer Vision
 
 ---
 
