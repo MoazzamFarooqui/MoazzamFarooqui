@@ -140,6 +140,6 @@ A console-based retail billing application developed in x86 Assembly Language th
 
 <div align="center">
 
-## Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 </div>
