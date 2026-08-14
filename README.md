@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- Your Exact Terminal Image -->
-  <img src="neofetch.png" alt="Moazzam Neofetch Profile" width="100%">
+  <img width="3344" height="1882" alt="upscalemedia-transformed" src="https://github.com/user-attachments/assets/c487fc66-913c-4691-8073-96e4d042fb61" />
+
 
   <br><br>
 
