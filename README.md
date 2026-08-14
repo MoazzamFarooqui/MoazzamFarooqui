@@ -28,7 +28,7 @@
   </a>
 
   <a href="https://moazzamfarooqui.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=netlify&logoColor=black&labelColor=FFFFFF" alt="Portfolio">
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000" alt="Portfolio">
+</a>
 
 </div>
